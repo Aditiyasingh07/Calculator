@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.cont{
+    text-align: center;
+}
+.main-container{
+    border-radius: 15px;
+    margin-top: 50px;
+    /* padding: 20px; */
+    display: inline-block;
+}
+.inter-row input{
+    margin-bottom: 20px;
+    height: 70px;
+    width: 100%;
+    font-size: 2rem;
+    border: none;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}

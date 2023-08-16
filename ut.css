@@ -1,0 +1,19 @@
+.center{
+    text-align: center;
+}
+.bg-blue{
+    background-color: aqua;
+}
+.num{
+    height: 100px;
+    margin: 5px 10px;
+    font-size: 1.8rem;
+    width: 72px;
+    border: none;
+    box-shadow: 2px 2px 10px red;
+    background-color: azure;
+    border-radius: 10px;
+}
+/* .mar-auto{
+    margin: auto;
+} */
